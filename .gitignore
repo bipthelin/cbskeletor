@@ -1,0 +1,11 @@
+deps
+ebin
+log
+erl_crash.dump
+.DS_Store
+.eunit
+*.beam
+*.chproj
+*.coverage.xml
+rel/cbskeletor
+*.plt
